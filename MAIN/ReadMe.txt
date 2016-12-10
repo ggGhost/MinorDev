@@ -1,0 +1,6 @@
+-X-Ray Extensions;
+-Cut-X-Ray Project;
+-Minor memory optimisation;
+-STCoP EnvFX;
+-Deleted "100 advice";
+-Optional CPU method. 
