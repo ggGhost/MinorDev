@@ -1,5 +1,5 @@
 -X-Ray Extensions;
--Cut-X-Ray Project;
+-Cut-X-Ray Project (pack I);
 -Minor memory optimisation;
 -STCoP EnvFX;
 -Deleted "100 advice";
