@@ -1,6 +1,1 @@
--X-Ray Extensions;
--Cut-X-Ray Project;
--Minor memory optimisation;
--STCoP EnvFX;
--Deleted "100 advice";
--Optional CPU method. 
+Nothing is really improved at the moment, though, compatible with the game.
