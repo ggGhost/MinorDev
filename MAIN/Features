@@ -1,6 +1,8 @@
--X-Ray Extensions;
--Cut-X-Ray Project (pack I);
--Minor memory optimisation;
--STCoP EnvFX;
--Deleted "100 advice";
--Optional CPU method. 
+---10.12.16
+-X-Ray Extensions; integrated
+-Cut-X-Ray Project (pack I); integrated
+-Minor memory optimisation; optimized
+-STCoP EnvFX; integrated
+-Deleted "100 advice"; integrated
+-Optional CPU method; integrated (optional)
+---
